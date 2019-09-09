@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="141209" started-at="2019-09-09T05:41:20Z" finished-at="2019-09-09T05:43:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="141209" started-at="2019-09-09T05:41:20Z" finished-at="2019-09-09T05:43:41Z">
+      <class name="practice.TechUs.ContactPage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.ContactPage@40ef3420]" name="pageTitleVerify" duration-ms="12794" started-at="2019-09-09T05:43:28Z" finished-at="2019-09-09T05:43:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.ContactPage -->
+      <class name="practice.TechUs.WebCloudApplicationPage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.WebCloudApplicationPage@6973b51b]" name="pageTitleVerify" duration-ms="13677" started-at="2019-09-09T05:42:17Z" finished-at="2019-09-09T05:42:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.WebCloudApplicationPage -->
+      <class name="practice.TechUs.TestimonialPage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.TestimonialPage@479d31f3]" name="pageTitleVerify" duration-ms="34414" started-at="2019-09-09T05:42:54Z" finished-at="2019-09-09T05:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.TestimonialPage -->
+      <class name="practice.TechUs.SoftwareModernizationPage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.SoftwareModernizationPage@1ab3a8c8]" name="pageTitleVerify" duration-ms="7141" started-at="2019-09-09T05:42:30Z" finished-at="2019-09-09T05:42:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.SoftwareModernizationPage -->
+      <class name="practice.TechUs.HowItWorksPage">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:practice.TechUs.HowItWorksPage@393671df]" name="beforetest" is-config="true" duration-ms="27732" started-at="2019-09-09T05:40:52Z" finished-at="2019-09-09T05:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.HowItWorksPage@393671df]" name="pageTitleVerify" duration-ms="6291" started-at="2019-09-09T05:41:22Z" finished-at="2019-09-09T05:41:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:practice.TechUs.HowItWorksPage@393671df]" name="afterTest" is-config="true" duration-ms="689" started-at="2019-09-09T05:43:41Z" finished-at="2019-09-09T05:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- practice.TechUs.HowItWorksPage -->
+      <class name="practice.TechUs.DevelopementTeamPage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.DevelopementTeamPage@192d43ce]" name="pageTitleVerify" duration-ms="8058" started-at="2019-09-09T05:41:49Z" finished-at="2019-09-09T05:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.DevelopementTeamPage -->
+      <class name="practice.TechUs.HomePage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.HomePage@56620197]" name="pageTitleVerify" duration-ms="2027" started-at="2019-09-09T05:41:20Z" finished-at="2019-09-09T05:41:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.HomePage -->
+      <class name="practice.TechUs.SoftwareDevPage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.SoftwareDevPage@72057ecf]" name="pageTitleVerify" duration-ms="11456" started-at="2019-09-09T05:41:57Z" finished-at="2019-09-09T05:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.SoftwareDevPage -->
+      <class name="practice.TechUs.PricingPage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.PricingPage@43195e57]" name="pageTitleVerify" duration-ms="5812" started-at="2019-09-09T05:42:37Z" finished-at="2019-09-09T05:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.PricingPage -->
+      <class name="practice.TechUs.ClientsPage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.ClientsPage@333291e3]" name="pageTitleVerify" duration-ms="10426" started-at="2019-09-09T05:42:43Z" finished-at="2019-09-09T05:42:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.ClientsPage -->
+      <class name="practice.TechUs.ArtificialInteligencePage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.ArtificialInteligencePage@5f058f00]" name="pageTitleVerify" duration-ms="14466" started-at="2019-09-09T05:41:35Z" finished-at="2019-09-09T05:41:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.ArtificialInteligencePage -->
+      <class name="practice.TechUs.FAQPage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.FAQPage@6eda5c9]" name="pageTitleVerify" duration-ms="3142" started-at="2019-09-09T05:41:28Z" finished-at="2019-09-09T05:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.FAQPage -->
+      <class name="practice.TechUs.OurServices">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.OurServices@55b7a4e0]" name="pageTitleVerify" duration-ms="3469" started-at="2019-09-09T05:41:31Z" finished-at="2019-09-09T05:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.OurServices -->
+      <class name="practice.TechUs.MobileAppDevPage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.MobileAppDevPage@1afd44cb]" name="pageTitleVerify" duration-ms="7979" started-at="2019-09-09T05:42:09Z" finished-at="2019-09-09T05:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.MobileAppDevPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

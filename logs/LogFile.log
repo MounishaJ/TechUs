@@ -1,0 +1,29 @@
+2019-09-09 16:11:05,389 [resources.Base.initializedriver] - Initialized browser
+2019-09-09 16:11:44,344 [resources.Base.initializedriver] - Launched Website
+2019-09-09 16:11:58,423 [resources.Base.menu] - Successfully verified Home Page title
+2019-09-09 16:11:58,423 [practice.TechUs.ContactPage.pageTitleVerify] - verified title
+2019-09-09 16:12:17,681 [resources.Base.menus] - Successfully verified Home Page title
+2019-09-09 16:12:17,683 [practice.TechUs.WebCloudApplicationPage.pageTitleVerify] - verified title
+2019-09-09 16:12:35,500 [resources.Base.menus] - Successfully verified Home Page title
+2019-09-09 16:12:35,501 [practice.TechUs.TestimonialPage.pageTitleVerify] - verified title
+2019-09-09 16:12:43,887 [resources.Base.menus] - Successfully verified Home Page title
+2019-09-09 16:12:43,887 [practice.TechUs.SoftwareModernizationPage.pageTitleVerify] - verified title
+2019-09-09 16:12:52,308 [resources.Base.menus] - Successfully verified Home Page title
+2019-09-09 16:12:52,308 [practice.TechUs.HowItWorksPage.pageTitleVerify] - verified title
+2019-09-09 16:13:00,705 [resources.Base.menus] - Successfully verified Home Page title
+2019-09-09 16:13:00,706 [practice.TechUs.DevelopementTeamPage.pageTitleVerify] - verified title
+2019-09-09 16:13:15,944 [resources.Base.menus] - Successfully verified Home Page title
+2019-09-09 16:13:15,944 [practice.TechUs.SoftwareDevPage.pageTitleVerify] - verified title
+2019-09-09 16:13:18,323 [resources.Base.menu] - Successfully verified Home Page title
+2019-09-09 16:13:18,324 [practice.TechUs.PricingPage.pageTitleVerify] - verified title
+2019-09-09 16:13:25,587 [resources.Base.menus] - Successfully verified Home Page title
+2019-09-09 16:13:25,589 [practice.TechUs.ClientsPage.pageTitleVerify] -  verified title
+2019-09-09 16:13:35,827 [resources.Base.menus] - Successfully verified Home Page title
+2019-09-09 16:13:35,828 [practice.TechUs.ArtificialInteligencePage.pageTitleVerify] - verified title
+2019-09-09 16:13:35,828 [practice.TechUs.ArtificialInteligencePage.pageTitleVerify] - Failed to verify AI page
+2019-09-09 16:13:40,196 [resources.Base.menus] - Successfully verified Home Page title
+2019-09-09 16:13:40,196 [practice.TechUs.FAQPage.pageTitleVerify] - verified title
+2019-09-09 16:13:43,510 [resources.Base.menus] - Successfully verified Home Page title
+2019-09-09 16:13:43,512 [practice.TechUs.OurServices.pageTitleVerify] - verified title
+2019-09-09 16:13:50,436 [resources.Base.menus] - Successfully verified Home Page title
+2019-09-09 16:13:50,437 [practice.TechUs.MobileAppDevPage.pageTitleVerify] - verified title

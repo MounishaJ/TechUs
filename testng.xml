@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="TitleVerification">
+    <classes>
+    <class name="practice.TechUs.HomePage"/>
+     <class name="practice.TechUs.HowItWorksPage"/>
+      <class name="practice.TechUs.FAQPage"/>
+     <class name="practice.TechUs.OurServices"/> 
+     <class name="practice.TechUs.ArtificialInteligencePage"/>
+     <class name="practice.TechUs.DevelopementTeamPage"/>
+     <class name="practice.TechUs.SoftwareDevPage"/>
+     <class name="practice.TechUs.MobileAppDevPage"/>
+     <class name="practice.TechUs.WebCloudApplicationPage"/>
+     <class name="practice.TechUs.SoftwareModernizationPage"/>
+     <class name="practice.TechUs.PricingPage"/>
+     <class name="practice.TechUs.ClientsPage"/>
+     <class name="practice.TechUs.TestimonialPage"/>
+     <class name="practice.TechUs.ContactPage"/>
+  </classes>
+  </test>
+  </suite> <!-- Suite    -->
