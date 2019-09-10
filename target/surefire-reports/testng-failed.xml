@@ -1,78 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
-  <test thread-count="5" verbose="0" name="Test(failed)">
+  <test thread-count="5" verbose="0" name="TitleVerification(failed)">
     <classes>
-      <class name="practice.TechUs.ClientsPage">
-        <methods>
-          <include name="pageTitleVerify"/>
-        </methods>
-      </class> <!-- practice.TechUs.ClientsPage -->
-      <class name="practice.TechUs.HomePage">
-        <methods>
-          <include name="pageTitleVerify"/>
-        </methods>
-      </class> <!-- practice.TechUs.HomePage -->
-      <class name="practice.TechUs.SoftwareModernizationPage">
-        <methods>
-          <include name="pageTitleVerify"/>
-        </methods>
-      </class> <!-- practice.TechUs.SoftwareModernizationPage -->
-      <class name="practice.TechUs.TestimonialPage">
-        <methods>
-          <include name="pageTitleVerify"/>
-        </methods>
-      </class> <!-- practice.TechUs.TestimonialPage -->
-      <class name="practice.TechUs.FAQPage">
-        <methods>
-          <include name="pageTitleVerify"/>
-        </methods>
-      </class> <!-- practice.TechUs.FAQPage -->
-      <class name="practice.TechUs.WebCloudApplicationPage">
-        <methods>
-          <include name="pageTitleVerify"/>
-        </methods>
-      </class> <!-- practice.TechUs.WebCloudApplicationPage -->
-      <class name="practice.TechUs.HowItWorksPage">
-        <methods>
-          <include name="pageTitleVerify"/>
-        </methods>
-      </class> <!-- practice.TechUs.HowItWorksPage -->
-      <class name="practice.TechUs.ArtificialInteligencePage">
-        <methods>
-          <include name="pageTitleVerify"/>
-        </methods>
-      </class> <!-- practice.TechUs.ArtificialInteligencePage -->
       <class name="practice.TechUs.ContactPage">
         <methods>
           <include name="pageTitleVerify"/>
+          <include name="Screenshot"/>
         </methods>
       </class> <!-- practice.TechUs.ContactPage -->
-      <class name="practice.TechUs.MobileAppDevPage">
-        <methods>
-          <include name="pageTitleVerify"/>
-        </methods>
-      </class> <!-- practice.TechUs.MobileAppDevPage -->
-      <class name="practice.TechUs.PricingPage">
-        <methods>
-          <include name="pageTitleVerify"/>
-        </methods>
-      </class> <!-- practice.TechUs.PricingPage -->
-      <class name="practice.TechUs.DevelopementTeamPage">
-        <methods>
-          <include name="pageTitleVerify"/>
-        </methods>
-      </class> <!-- practice.TechUs.DevelopementTeamPage -->
-      <class name="practice.TechUs.OurServices">
-        <methods>
-          <include name="pageTitleVerify"/>
-        </methods>
-      </class> <!-- practice.TechUs.OurServices -->
-      <class name="practice.TechUs.SoftwareDevPage">
-        <methods>
-          <include name="pageTitleVerify"/>
-        </methods>
-      </class> <!-- practice.TechUs.SoftwareDevPage -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- TitleVerification(failed) -->
 </suite> <!-- Failed suite [Suite] -->
