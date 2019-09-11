@@ -15,7 +15,6 @@ public class MobileAppDevPage extends Base {
 	public void pageTitleVerify() throws IOException, InterruptedException {
 		Home_Page page=new Home_Page(driver);
 		menus(page.serviceMenu(),page.menuItem3(),"Hire Tech.us For Your Mobile App Development - Tech.us");
-		log.info("verified title");
-	}
+			}
 
 }

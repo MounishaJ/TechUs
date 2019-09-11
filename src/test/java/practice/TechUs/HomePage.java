@@ -15,8 +15,8 @@ public class HomePage extends Base{
 	public void pageTitleVerify() throws InterruptedException {
 		
 		String page_Title=driver.getTitle();
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		Assert.assertEquals(page_Title, "Hire Tech Experts For Your Software Projects - Tech.us");
-		log.info("Landing Home page");
+		
 	}
 }

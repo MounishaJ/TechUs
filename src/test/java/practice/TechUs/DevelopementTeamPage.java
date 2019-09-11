@@ -16,6 +16,6 @@ public class DevelopementTeamPage extends Base {
 		Home_Page page=new Home_Page(driver);
 		menus(page.serviceMenu(),page.menuItem2(),"Hire Tech.us For Your Dedicated Development Team - Tech.us");
 		
-		log.info("verified title");
+	
 	}
 }

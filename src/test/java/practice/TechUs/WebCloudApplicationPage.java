@@ -15,7 +15,7 @@ public class WebCloudApplicationPage extends Base {
 	public void pageTitleVerify() throws IOException, InterruptedException {
 		Home_Page page=new Home_Page(driver);
 		menus(page.serviceMenu(),page.menuItem7(),"Hire Tech.us For Your Web & Cloud Applications - Tech.us");
-		log.info("verified title");
+		
 }
 
 }

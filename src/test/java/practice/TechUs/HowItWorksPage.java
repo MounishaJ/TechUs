@@ -24,7 +24,7 @@ public class HowItWorksPage extends Base{
 	public void pageTitleVerify() throws IOException, Exception{
 		Home_Page page=new Home_Page(driver);
 		menus(page.howitworkMenu(),page.menuItem01(),"How It Works - Tech.us");
-		log.info("verified title");
+		
 }
 	@AfterSuite
 	public void afterTest()

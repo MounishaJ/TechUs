@@ -18,8 +18,6 @@ public class ArtificialInteligencePage extends Base {
 	public void pageTitleVerify() throws IOException, InterruptedException {
 		Home_Page page=new Home_Page(driver);
 		menus(page.serviceMenu(),page.menuItem1(),"Hire Tech.us For Your Artificial Intelligence & ML - Tech.us");	
-		log.info("verified title");
-		log.error("Failed to verify AI page");
 		
 		
 }

@@ -15,6 +15,6 @@ public class SoftwareDevPage extends Base {
 	public void pageTitleVerify() throws IOException, InterruptedException {
 		Home_Page page=new Home_Page(driver);
 		menus(page.serviceMenu(),page.menuItem5(),"Hire Tech.us For Your Custom Software Development Projects - Tech.us");
-		log.info("verified title");	
+		
 	}
 }

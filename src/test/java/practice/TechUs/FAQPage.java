@@ -16,8 +16,7 @@ public class FAQPage extends Base
 	public void pageTitleVerify() throws IOException, InterruptedException {
 		Home_Page page=new Home_Page(driver);
 		menus(page.howitworkMenu(),page.menuItem02(),"How Can We Help You? - Tech.us");
-		
-		log.info("verified title");
+	
 
 }
 }

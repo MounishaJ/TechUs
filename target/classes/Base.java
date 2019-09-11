@@ -57,7 +57,7 @@ public class Base {
 				    driver.manage().window().maximize();
 				}
 				
-				driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+				driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 				return driver;
 			}
 			
@@ -66,24 +66,19 @@ public class Base {
 				Actions action=new Actions(driver);
 				action.moveToElement(link).build().perform();
 				item.click();
-				Thread.sleep(2000);
+				Thread.sleep(3000);
 				String page_Title=driver.getTitle();
 				Assert.assertEquals(page_Title, text);
-				System.out.println("verified "+page_Title);
-				log.info("Successfully verified Home Page title");
+				log.debug("Successfully verified"+page_Title);
 			}
-
 			public void menu(WebElement link,String text) throws InterruptedException
 			{
 				link.click();
-				Thread.sleep(2000);
+				Thread.sleep(3000);
 				String page_Title=driver.getTitle();
 				Assert.assertEquals(page_Title, text);
-				System.out.println("verified "+page_Title);
-				log.info("Successfully verified Home Page title");
+				log.debug("Successfully verified"+page_Title);
 			}
-			
-			
 			public void initializedriver() throws IOException
 			{
 				driver = initializeDriver();
@@ -92,15 +87,14 @@ public class Base {
 				log.info("Launched Website");
 			}
 			
-		
 			public void teardown()
 			{
 				driver.close();
 			}
-			
-			public void takeScreenshot(String result) throws Exception {
-		        File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-		        FileUtils.copyFile(scrFile, new File("F:\\Automation-Selenium\\TechUs\\Screenshots"+result+" "+System.currentTimeMillis()+".png"));
+			public void takeScreenshot(String result) throws Exception 
+			{
+		     File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		     FileUtils.copyFile(scrFile, new File("F://Automation-Selenium//TechUs//Screenshots//"+result+System.currentTimeMillis()+" "+"error.png"));
 		    }
 
 }

@@ -15,7 +15,7 @@ public class ClientsPage extends Base {
 	public void pageTitleVerify() throws IOException, InterruptedException {
 		Home_Page page=new Home_Page(driver);
 		menus(page.clientMenu(),page.menuItem001(),"1,350+ Successful Projects and Counting...");	
-		log.info(" verified title");
+		
 
 
 }}

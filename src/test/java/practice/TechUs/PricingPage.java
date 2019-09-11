@@ -15,6 +15,6 @@ public class PricingPage extends Base {
 	public void pageTitleVerify() throws IOException, InterruptedException {
 		Home_Page page=new Home_Page(driver);
 		menu(page.pricingMenu(),"Why Tech.us? - Tech.us");
-		log.info("verified title");
+		
 	}
 }

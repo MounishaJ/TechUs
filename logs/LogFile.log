@@ -1,144 +1,115 @@
-2019-09-09 16:11:05,389 [resources.Base.initializedriver] - Initialized browser
-2019-09-09 16:11:44,344 [resources.Base.initializedriver] - Launched Website
-2019-09-09 16:11:58,423 [resources.Base.menu] - Successfully verified Home Page title
-2019-09-09 16:11:58,423 [practice.TechUs.ContactPage.pageTitleVerify] - verified title
-2019-09-09 16:12:17,681 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-09 16:12:17,683 [practice.TechUs.WebCloudApplicationPage.pageTitleVerify] - verified title
-2019-09-09 16:12:35,500 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-09 16:12:35,501 [practice.TechUs.TestimonialPage.pageTitleVerify] - verified title
-2019-09-09 16:12:43,887 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-09 16:12:43,887 [practice.TechUs.SoftwareModernizationPage.pageTitleVerify] - verified title
-2019-09-09 16:12:52,308 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-09 16:12:52,308 [practice.TechUs.HowItWorksPage.pageTitleVerify] - verified title
-2019-09-09 16:13:00,705 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-09 16:13:00,706 [practice.TechUs.DevelopementTeamPage.pageTitleVerify] - verified title
-2019-09-09 16:13:15,944 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-09 16:13:15,944 [practice.TechUs.SoftwareDevPage.pageTitleVerify] - verified title
-2019-09-09 16:13:18,323 [resources.Base.menu] - Successfully verified Home Page title
-2019-09-09 16:13:18,324 [practice.TechUs.PricingPage.pageTitleVerify] - verified title
-2019-09-09 16:13:25,587 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-09 16:13:25,589 [practice.TechUs.ClientsPage.pageTitleVerify] -  verified title
-2019-09-09 16:13:35,827 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-09 16:13:35,828 [practice.TechUs.ArtificialInteligencePage.pageTitleVerify] - verified title
-2019-09-09 16:13:35,828 [practice.TechUs.ArtificialInteligencePage.pageTitleVerify] - Failed to verify AI page
-2019-09-09 16:13:40,196 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-09 16:13:40,196 [practice.TechUs.FAQPage.pageTitleVerify] - verified title
-2019-09-09 16:13:43,510 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-09 16:13:43,512 [practice.TechUs.OurServices.pageTitleVerify] - verified title
-2019-09-09 16:13:50,436 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-09 16:13:50,437 [practice.TechUs.MobileAppDevPage.pageTitleVerify] - verified title
-2019-09-10 17:17:04,467 [resources.Base.initializedriver] - Initialized browser
-2019-09-10 17:17:36,808 [resources.Base.initializedriver] - Launched Website
-2019-09-10 17:17:38,921 [practice.TechUs.HomePage.pageTitleVerify] - Landing Home page
-2019-09-10 17:18:10,359 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:18:10,360 [practice.TechUs.HowItWorksPage.pageTitleVerify] - verified title
-2019-09-10 17:18:41,044 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:18:41,045 [practice.TechUs.FAQPage.pageTitleVerify] - verified title
-2019-09-10 17:19:05,816 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:19:05,816 [practice.TechUs.OurServices.pageTitleVerify] - verified title
-2019-09-10 17:22:45,964 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:22:45,965 [practice.TechUs.ArtificialInteligencePage.pageTitleVerify] - verified title
-2019-09-10 17:22:45,965 [practice.TechUs.ArtificialInteligencePage.pageTitleVerify] - Failed to verify AI page
-2019-09-10 17:22:51,335 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:22:51,336 [practice.TechUs.DevelopementTeamPage.pageTitleVerify] - verified title
-2019-09-10 17:22:57,706 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:22:57,706 [practice.TechUs.SoftwareDevPage.pageTitleVerify] - verified title
-2019-09-10 17:23:01,699 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:23:01,700 [practice.TechUs.MobileAppDevPage.pageTitleVerify] - verified title
-2019-09-10 17:23:07,416 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:23:07,417 [practice.TechUs.WebCloudApplicationPage.pageTitleVerify] - verified title
-2019-09-10 17:23:11,033 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:23:11,033 [practice.TechUs.SoftwareModernizationPage.pageTitleVerify] - verified title
-2019-09-10 17:23:13,719 [resources.Base.menu] - Successfully verified Home Page title
-2019-09-10 17:23:13,720 [practice.TechUs.PricingPage.pageTitleVerify] - verified title
-2019-09-10 17:23:20,919 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:23:20,920 [practice.TechUs.ClientsPage.pageTitleVerify] -  verified title
-2019-09-10 17:24:06,995 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:24:06,995 [practice.TechUs.TestimonialPage.pageTitleVerify] - verified title
-2019-09-10 17:30:41,518 [resources.Base.initializedriver] - Initialized browser
-2019-09-10 17:31:01,949 [resources.Base.initializedriver] - Launched Website
-2019-09-10 17:31:04,003 [practice.TechUs.HomePage.pageTitleVerify] - Landing Home page
-2019-09-10 17:31:15,634 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:31:15,635 [practice.TechUs.HowItWorksPage.pageTitleVerify] - verified title
-2019-09-10 17:31:29,591 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:31:29,592 [practice.TechUs.FAQPage.pageTitleVerify] - verified title
-2019-09-10 17:31:44,265 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:31:44,266 [practice.TechUs.OurServices.pageTitleVerify] - verified title
-2019-09-10 17:31:58,549 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:31:58,549 [practice.TechUs.ArtificialInteligencePage.pageTitleVerify] - verified title
-2019-09-10 17:31:58,550 [practice.TechUs.ArtificialInteligencePage.pageTitleVerify] - Failed to verify AI page
-2019-09-10 17:32:04,401 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:32:04,402 [practice.TechUs.DevelopementTeamPage.pageTitleVerify] - verified title
-2019-09-10 17:32:10,717 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:32:10,718 [practice.TechUs.SoftwareDevPage.pageTitleVerify] - verified title
-2019-09-10 17:32:20,059 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:32:20,060 [practice.TechUs.MobileAppDevPage.pageTitleVerify] - verified title
-2019-09-10 17:32:52,543 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:32:52,544 [practice.TechUs.WebCloudApplicationPage.pageTitleVerify] - verified title
-2019-09-10 17:33:03,042 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:33:03,042 [practice.TechUs.SoftwareModernizationPage.pageTitleVerify] - verified title
-2019-09-10 17:33:09,523 [resources.Base.menu] - Successfully verified Home Page title
-2019-09-10 17:33:09,523 [practice.TechUs.PricingPage.pageTitleVerify] - verified title
-2019-09-10 17:33:19,479 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:33:19,480 [practice.TechUs.ClientsPage.pageTitleVerify] -  verified title
-2019-09-10 17:33:31,379 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:33:31,380 [practice.TechUs.TestimonialPage.pageTitleVerify] - verified title
-2019-09-10 17:33:43,075 [resources.Base.menu] - Successfully verified Home Page title
-2019-09-10 17:33:43,078 [practice.TechUs.ContactPage.pageTitleVerify] - verified title
-2019-09-10 17:35:07,108 [resources.Base.initializedriver] - Initialized browser
-2019-09-10 17:35:20,094 [resources.Base.initializedriver] - Launched Website
-2019-09-10 17:35:22,165 [practice.TechUs.HomePage.pageTitleVerify] - Landing Home page
-2019-09-10 17:35:26,782 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:35:26,786 [practice.TechUs.HowItWorksPage.pageTitleVerify] - verified title
-2019-09-10 17:35:31,192 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:35:31,196 [practice.TechUs.FAQPage.pageTitleVerify] - verified title
-2019-09-10 17:35:35,176 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:35:35,180 [practice.TechUs.OurServices.pageTitleVerify] - verified title
-2019-09-10 17:35:40,516 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:35:40,520 [practice.TechUs.ArtificialInteligencePage.pageTitleVerify] - verified title
-2019-09-10 17:35:40,521 [practice.TechUs.ArtificialInteligencePage.pageTitleVerify] - Failed to verify AI page
-2019-09-10 17:35:44,751 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:35:44,751 [practice.TechUs.DevelopementTeamPage.pageTitleVerify] - verified title
-2019-09-10 17:35:49,939 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:35:49,939 [practice.TechUs.SoftwareDevPage.pageTitleVerify] - verified title
-2019-09-10 17:35:55,650 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:35:55,650 [practice.TechUs.MobileAppDevPage.pageTitleVerify] - verified title
-2019-09-10 17:36:09,388 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:36:09,388 [practice.TechUs.WebCloudApplicationPage.pageTitleVerify] - verified title
-2019-09-10 17:36:17,122 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:36:17,122 [practice.TechUs.SoftwareModernizationPage.pageTitleVerify] - verified title
-2019-09-10 17:36:22,895 [resources.Base.menu] - Successfully verified Home Page title
-2019-09-10 17:36:22,895 [practice.TechUs.PricingPage.pageTitleVerify] - verified title
-2019-09-10 17:36:29,188 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:36:29,188 [practice.TechUs.ClientsPage.pageTitleVerify] -  verified title
-2019-09-10 17:36:47,972 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:36:47,976 [practice.TechUs.TestimonialPage.pageTitleVerify] - verified title
-2019-09-10 17:36:54,649 [resources.Base.menu] - Successfully verified Home Page title
-2019-09-10 17:40:54,119 [resources.Base.initializedriver] - Initialized browser
-2019-09-10 17:41:17,608 [resources.Base.initializedriver] - Launched Website
-2019-09-10 17:41:19,700 [practice.TechUs.HomePage.pageTitleVerify] - Landing Home page
-2019-09-10 17:41:31,142 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:41:31,142 [practice.TechUs.HowItWorksPage.pageTitleVerify] - verified title
-2019-09-10 17:41:38,476 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:41:38,480 [practice.TechUs.FAQPage.pageTitleVerify] - verified title
-2019-09-10 17:41:42,133 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:41:42,137 [practice.TechUs.OurServices.pageTitleVerify] - verified title
-2019-09-10 17:42:03,633 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:42:03,637 [practice.TechUs.ArtificialInteligencePage.pageTitleVerify] - verified title
-2019-09-10 17:42:03,639 [practice.TechUs.ArtificialInteligencePage.pageTitleVerify] - Failed to verify AI page
-2019-09-10 17:42:08,654 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:42:08,654 [practice.TechUs.DevelopementTeamPage.pageTitleVerify] - verified title
-2019-09-10 17:42:15,926 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:42:15,926 [practice.TechUs.SoftwareDevPage.pageTitleVerify] - verified title
-2019-09-10 17:42:20,728 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:42:20,728 [practice.TechUs.MobileAppDevPage.pageTitleVerify] - verified title
-2019-09-10 17:42:27,921 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:42:27,925 [practice.TechUs.WebCloudApplicationPage.pageTitleVerify] - verified title
-2019-09-10 17:42:31,631 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:42:31,635 [practice.TechUs.SoftwareModernizationPage.pageTitleVerify] - verified title
-2019-09-10 17:42:35,477 [resources.Base.menu] - Successfully verified Home Page title
-2019-09-10 17:42:35,477 [practice.TechUs.PricingPage.pageTitleVerify] - verified title
-2019-09-10 17:42:39,534 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:42:39,534 [practice.TechUs.ClientsPage.pageTitleVerify] -  verified title
-2019-09-10 17:42:51,859 [resources.Base.menus] - Successfully verified Home Page title
-2019-09-10 17:42:51,859 [practice.TechUs.TestimonialPage.pageTitleVerify] - verified title
+2019-09-11 12:48:39,529 [resources.Base.initializedriver] - Initialized browser
+2019-09-11 12:48:53,913 [resources.Base.initializedriver] - Launched Website
+2019-09-11 12:49:11,473 [resources.Base.menus] - Successfully verifiedTestimonials
+2019-09-11 12:49:18,045 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Software Modernization Projects - Tech.us
+2019-09-11 12:49:23,952 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Custom Software Development Projects - Tech.us
+2019-09-11 12:49:26,687 [resources.Base.menus] - Successfully verifiedHow It Works - Tech.us
+2019-09-11 12:49:29,596 [resources.Base.menu] - Successfully verifiedWhy Tech.us? - Tech.us
+2019-09-11 12:49:33,489 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Dedicated Development Team - Tech.us
+2019-09-11 12:49:39,476 [resources.Base.menus] - Successfully verified1,350+ Successful Projects and Counting...
+2019-09-11 12:49:46,120 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Artificial Intelligence & ML - Tech.us
+2019-09-11 12:49:48,770 [resources.Base.menus] - Successfully verifiedHow Can We Help You? - Tech.us
+2019-09-11 12:49:51,885 [resources.Base.menus] - Successfully verifiedService Offerings - Tech.us
+2019-09-11 12:49:55,269 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Mobile App Development - Tech.us
+2019-09-11 12:51:12,745 [resources.Base.initializedriver] - Initialized browser
+2019-09-11 12:51:25,639 [resources.Base.initializedriver] - Launched Website
+2019-09-11 12:51:31,001 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Web & Cloud Applications - Tech.us
+2019-09-11 12:51:37,194 [resources.Base.menus] - Successfully verifiedTestimonials
+2019-09-11 12:51:43,070 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Software Modernization Projects - Tech.us
+2019-09-11 12:51:47,970 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Custom Software Development Projects - Tech.us
+2019-09-11 12:51:52,356 [resources.Base.menus] - Successfully verifiedHow It Works - Tech.us
+2019-09-11 12:51:54,674 [resources.Base.menu] - Successfully verifiedWhy Tech.us? - Tech.us
+2019-09-11 12:51:58,715 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Dedicated Development Team - Tech.us
+2019-09-11 12:52:04,913 [resources.Base.menus] - Successfully verified1,350+ Successful Projects and Counting...
+2019-09-11 12:52:09,466 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Artificial Intelligence & ML - Tech.us
+2019-09-11 12:52:12,848 [resources.Base.menus] - Successfully verifiedHow Can We Help You? - Tech.us
+2019-09-11 12:52:16,191 [resources.Base.menus] - Successfully verifiedService Offerings - Tech.us
+2019-09-11 12:52:19,939 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Mobile App Development - Tech.us
+2019-09-11 12:55:51,743 [resources.Base.initializedriver] - Initialized browser
+2019-09-11 12:56:01,117 [resources.Base.initializedriver] - Launched Website
+2019-09-11 12:56:06,790 [resources.Base.menus] - Successfully verifiedHow It Works - Tech.us
+2019-09-11 12:56:10,172 [resources.Base.menus] - Successfully verifiedHow Can We Help You? - Tech.us
+2019-09-11 12:56:13,533 [resources.Base.menus] - Successfully verifiedService Offerings - Tech.us
+2019-09-11 12:56:18,801 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Artificial Intelligence & ML - Tech.us
+2019-09-11 12:56:22,232 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Dedicated Development Team - Tech.us
+2019-09-11 12:56:27,001 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Custom Software Development Projects - Tech.us
+2019-09-11 12:56:31,113 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Mobile App Development - Tech.us
+2019-09-11 12:56:36,507 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Web & Cloud Applications - Tech.us
+2019-09-11 12:56:40,176 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Software Modernization Projects - Tech.us
+2019-09-11 12:56:43,454 [resources.Base.menu] - Successfully verifiedWhy Tech.us? - Tech.us
+2019-09-11 12:56:47,640 [resources.Base.menus] - Successfully verified1,350+ Successful Projects and Counting...
+2019-09-11 12:56:52,981 [resources.Base.menus] - Successfully verifiedTestimonials
+2019-09-11 14:09:53,355 [resources.Base.initializedriver] - Initialized browser
+2019-09-11 14:10:23,671 [resources.Base.initializedriver] - Launched Website
+2019-09-11 14:10:52,951 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Software Modernization Projects - Tech.us
+2019-09-11 14:10:57,842 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Custom Software Development Projects - Tech.us
+2019-09-11 14:11:01,539 [resources.Base.menus] - Successfully verifiedHow It Works - Tech.us
+2019-09-11 14:11:04,792 [resources.Base.menu] - Successfully verifiedWhy Tech.us? - Tech.us
+2019-09-11 14:11:11,794 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Dedicated Development Team - Tech.us
+2019-09-11 14:11:15,549 [resources.Base.menus] - Successfully verified1,350+ Successful Projects and Counting...
+2019-09-11 14:11:20,176 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Artificial Intelligence & ML - Tech.us
+2019-09-11 14:11:23,955 [resources.Base.menus] - Successfully verifiedHow Can We Help You? - Tech.us
+2019-09-11 14:11:27,687 [resources.Base.menus] - Successfully verifiedService Offerings - Tech.us
+2019-09-11 14:11:31,155 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Mobile App Development - Tech.us
+2019-09-11 14:17:04,333 [resources.Base.initializedriver] - Initialized browser
+2019-09-11 14:17:19,920 [resources.Base.initializedriver] - Launched Website
+2019-09-11 14:17:24,985 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Web & Cloud Applications - Tech.us
+2019-09-11 14:17:33,734 [resources.Base.menus] - Successfully verifiedTestimonials
+2019-09-11 14:17:39,534 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Software Modernization Projects - Tech.us
+2019-09-11 14:17:43,240 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Custom Software Development Projects - Tech.us
+2019-09-11 14:17:48,276 [resources.Base.menus] - Successfully verifiedHow It Works - Tech.us
+2019-09-11 14:17:51,486 [resources.Base.menu] - Successfully verifiedWhy Tech.us? - Tech.us
+2019-09-11 14:17:55,099 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Dedicated Development Team - Tech.us
+2019-09-11 14:18:00,917 [resources.Base.menus] - Successfully verified1,350+ Successful Projects and Counting...
+2019-09-11 14:18:04,835 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Artificial Intelligence & ML - Tech.us
+2019-09-11 14:18:08,621 [resources.Base.menus] - Successfully verifiedHow Can We Help You? - Tech.us
+2019-09-11 14:18:12,466 [resources.Base.menus] - Successfully verifiedService Offerings - Tech.us
+2019-09-11 14:18:16,342 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Mobile App Development - Tech.us
+
+
+2019-09-11 14:20:35,712 [resources.Base.initializedriver] - Initialized browser
+2019-09-11 14:20:46,873 [resources.Base.initializedriver] - Launched Website
+2019-09-11 14:20:54,524 [resources.Base.menus] - Successfully verifiedHow It Works - Tech.us
+2019-09-11 14:20:57,907 [resources.Base.menus] - Successfully verifiedHow Can We Help You? - Tech.us
+2019-09-11 14:21:02,669 [resources.Base.menus] - Successfully verifiedService Offerings - Tech.us
+2019-09-11 14:21:08,793 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Artificial Intelligence & ML - Tech.us
+2019-09-11 14:21:14,084 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Dedicated Development Team - Tech.us
+2019-09-11 14:21:20,540 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Custom Software Development Projects - Tech.us
+2019-09-11 14:21:25,750 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Mobile App Development - Tech.us
+2019-09-11 14:21:31,944 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Web & Cloud Applications - Tech.us
+2019-09-11 14:21:35,336 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Software Modernization Projects - Tech.us
+2019-09-11 14:21:38,821 [resources.Base.menu] - Successfully verifiedWhy Tech.us? - Tech.us
+2019-09-11 14:21:50,612 [resources.Base.menus] - Successfully verified1,350+ Successful Projects and Counting...
+2019-09-11 14:22:00,203 [resources.Base.menus] - Successfully verifiedTestimonials
+2019-09-11 16:02:12,273 [resources.Base.initializedriver] - Initialized browser
+2019-09-11 16:02:51,761 [resources.Base.initializedriver] - Launched Website
+2019-09-11 16:03:03,750 [resources.Base.menus] - Successfully verifiedHow It Works - Tech.us
+2019-09-11 16:03:09,455 [resources.Base.menus] - Successfully verifiedHow Can We Help You? - Tech.us
+2019-09-11 16:03:13,288 [resources.Base.menus] - Successfully verifiedService Offerings - Tech.us
+2019-09-11 16:03:21,530 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Artificial Intelligence & ML - Tech.us
+2019-09-11 16:03:27,555 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Dedicated Development Team - Tech.us
+2019-09-11 16:03:38,674 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Custom Software Development Projects - Tech.us
+2019-09-11 16:03:51,371 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Mobile App Development - Tech.us
+2019-09-11 16:04:08,468 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Web & Cloud Applications - Tech.us
+2019-09-11 16:04:20,274 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Software Modernization Projects - Tech.us
+2019-09-11 16:04:27,426 [resources.Base.menu] - Successfully verifiedWhy Tech.us? - Tech.us
+2019-09-11 16:04:34,234 [resources.Base.menus] - Successfully verified1,350+ Successful Projects and Counting...
+2019-09-11 16:04:57,888 [resources.Base.menus] - Successfully verifiedTestimonials
+2019-09-11 16:05:24,002 [resources.Listeners.onTestFailure] - Testscript failures in class resources.Listeners.[TestResult name=pageTitleVerify status=FAILURE method=ContactPage.pageTitleVerify()[pri:0, instance:practice.TechUs.ContactPage@479d31f3] output={null}]Method
+2019-09-11 16:05:24,903 [resources.Listeners.onTestFailure] - Succesfully taken screenshot
+2019-09-11 16:06:15,344 [resources.Base.initializedriver] - Initialized browser
+2019-09-11 16:06:28,721 [resources.Base.initializedriver] - Launched Website
+2019-09-11 16:06:36,868 [resources.Base.menus] - Successfully verifiedHow It Works - Tech.us
+2019-09-11 16:06:40,653 [resources.Base.menus] - Successfully verifiedHow Can We Help You? - Tech.us
+2019-09-11 16:06:44,494 [resources.Base.menus] - Successfully verifiedService Offerings - Tech.us
+2019-09-11 16:06:55,584 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Artificial Intelligence & ML - Tech.us
+2019-09-11 16:07:03,605 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Dedicated Development Team - Tech.us
+2019-09-11 16:07:15,337 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Custom Software Development Projects - Tech.us
+2019-09-11 16:07:21,118 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Mobile App Development - Tech.us
+2019-09-11 16:07:25,513 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Web & Cloud Applications - Tech.us
+2019-09-11 16:07:30,260 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Software Modernization Projects - Tech.us
+2019-09-11 16:07:33,475 [resources.Base.menu] - Successfully verifiedWhy Tech.us? - Tech.us
+2019-09-11 16:07:48,476 [resources.Base.menus] - Successfully verified1,350+ Successful Projects and Counting...
+2019-09-11 16:08:07,414 [resources.Base.menus] - Successfully verifiedTestimonials
+2019-09-11 16:08:45,465 [resources.Listeners.onTestFailure] - Testscript failures in class resources.Listeners.[TestResult name=pageTitleVerify status=FAILURE method=ContactPage.pageTitleVerify()[pri:0, instance:practice.TechUs.ContactPage@799f10e1] output={null}]Method
+2019-09-11 16:08:46,756 [resources.Listeners.onTestFailure] - Succesfully taken screenshot

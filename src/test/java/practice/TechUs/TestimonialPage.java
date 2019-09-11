@@ -15,7 +15,7 @@ public class TestimonialPage extends Base {
 	public void pageTitleVerify() throws IOException, InterruptedException {
 		Home_Page page=new Home_Page(driver);
 		menus(page.clientMenu(),page.menuItem002(),"Testimonials");	
-		log.info("verified title");
+		
 	}
 
 }

@@ -15,7 +15,7 @@ public class SoftwareModernizationPage extends Base {
 	public void pageTitleVerify() throws IOException, InterruptedException {
 		Home_Page page=new Home_Page(driver);
 		menus(page.serviceMenu(),page.menuItem6(),"Hire Tech.us For Your Software Modernization Projects - Tech.us");
-		log.info("verified title");
+	
 }
 
 }

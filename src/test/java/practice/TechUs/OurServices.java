@@ -15,7 +15,7 @@ public class OurServices extends Base{
 	public void pageTitleVerify() throws IOException, InterruptedException {
 		Home_Page page=new Home_Page(driver);
 		menus(page.serviceMenu(),page.menuItem4(),"Service Offerings - Tech.us");
-		log.info("verified title");
+		
 		
 }
 }

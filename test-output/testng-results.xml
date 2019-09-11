@@ -1,70 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="14" passed="13">
+<testng-results skipped="3" failed="1" ignored="0" total="17" passed="13">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="126094" started-at="2019-09-09T10:41:44Z" finished-at="2019-09-09T10:43:50Z">
+  <suite name="Suite" duration-ms="138036" started-at="2019-09-11T10:36:28Z" finished-at="2019-09-11T10:38:46Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="126094" started-at="2019-09-09T10:41:44Z" finished-at="2019-09-09T10:43:50Z">
+    <test name="TitleVerification" duration-ms="138036" started-at="2019-09-11T10:36:28Z" finished-at="2019-09-11T10:38:46Z">
       <class name="practice.TechUs.ContactPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.ContactPage@2a7f1f10]" name="pageTitleVerify" duration-ms="14027" started-at="2019-09-09T10:41:44Z" finished-at="2019-09-09T10:41:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.ContactPage -->
-      <class name="practice.TechUs.WebCloudApplicationPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.WebCloudApplicationPage@46cdf8bd]" name="pageTitleVerify" duration-ms="18713" started-at="2019-09-09T10:41:58Z" finished-at="2019-09-09T10:42:17Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.WebCloudApplicationPage -->
-      <class name="practice.TechUs.TestimonialPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.TestimonialPage@f0c8a99]" name="pageTitleVerify" duration-ms="17811" started-at="2019-09-09T10:42:17Z" finished-at="2019-09-09T10:42:35Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.TestimonialPage -->
-      <class name="practice.TechUs.SoftwareModernizationPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.SoftwareModernizationPage@740cae06]" name="pageTitleVerify" duration-ms="8378" started-at="2019-09-09T10:42:35Z" finished-at="2019-09-09T10:42:43Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.SoftwareModernizationPage -->
-      <class name="practice.TechUs.HowItWorksPage">
-        <test-method status="PASS" signature="beforetest()[pri:0, instance:practice.TechUs.HowItWorksPage@298a5e20]" name="beforetest" is-config="true" duration-ms="117519" started-at="2019-09-09T10:39:46Z" finished-at="2019-09-09T10:41:44Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforetest -->
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.HowItWorksPage@298a5e20]" name="pageTitleVerify" duration-ms="8418" started-at="2019-09-09T10:42:43Z" finished-at="2019-09-09T10:42:52Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:practice.TechUs.HowItWorksPage@298a5e20]" name="afterTest" is-config="true" duration-ms="3098" started-at="2019-09-09T10:43:51Z" finished-at="2019-09-09T10:43:54Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-      </class> <!-- practice.TechUs.HowItWorksPage -->
-      <class name="practice.TechUs.DevelopementTeamPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.DevelopementTeamPage@26d9b808]" name="pageTitleVerify" duration-ms="8393" started-at="2019-09-09T10:42:52Z" finished-at="2019-09-09T10:43:00Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.DevelopementTeamPage -->
-      <class name="practice.TechUs.HomePage">
-        <test-method status="FAIL" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.HomePage@f78a47e]" name="pageTitleVerify" duration-ms="2025" started-at="2019-09-09T10:43:00Z" finished-at="2019-09-09T10:43:02Z">
+        <test-method status="SKIP" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.ContactPage@799f10e1]" name="pageTitleVerify" duration-ms="9994" started-at="2019-09-11T10:38:07Z" finished-at="2019-09-11T10:38:17Z">
           <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[expected [Hire Tech Experts For Your Software Projects - Tech.us] but found [Hire Tech.us For Your Dedicated Development Team - Tech.us]]]>
+              <![CDATA[expected [Tell Us About Your Dream. Let's chat! - Tech.us1] but found [Tell Us About Your Dream. Let's chat! - Tech.us]]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [Hire Tech Experts For Your Software Projects - Tech.us] but found [Hire Tech.us For Your Dedicated Development Team - Tech.us]
+              <![CDATA[java.lang.AssertionError: expected [Tell Us About Your Dream. Let's chat! - Tech.us1] but found [Tell Us About Your Dream. Let's chat! - Tech.us]
 at org.testng.Assert.fail(Assert.java:96)
 at org.testng.Assert.failNotEquals(Assert.java:776)
 at org.testng.Assert.assertEqualsImpl(Assert.java:137)
 at org.testng.Assert.assertEquals(Assert.java:118)
 at org.testng.Assert.assertEquals(Assert.java:453)
 at org.testng.Assert.assertEquals(Assert.java:463)
-at practice.TechUs.HomePage.pageTitleVerify(HomePage.java:19)
+at resources.Base.menu(Base.java:79)
+at practice.TechUs.ContactPage.pageTitleVerify(ContactPage.java:20)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -96,49 +53,231 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTitleVerify -->
+        <test-method status="SKIP" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.ContactPage@799f10e1]" name="pageTitleVerify" duration-ms="11181" started-at="2019-09-11T10:38:17Z" finished-at="2019-09-11T10:38:28Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Tell Us About Your Dream. Let's chat! - Tech.us1] but found [Tell Us About Your Dream. Let's chat! - Tech.us]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Tell Us About Your Dream. Let's chat! - Tech.us1] but found [Tell Us About Your Dream. Let's chat! - Tech.us]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at resources.Base.menu(Base.java:79)
+at practice.TechUs.ContactPage.pageTitleVerify(ContactPage.java:20)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.retryFailed(Invoker.java:839)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1010)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+        <test-method status="SKIP" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.ContactPage@799f10e1]" name="pageTitleVerify" duration-ms="8206" started-at="2019-09-11T10:38:28Z" finished-at="2019-09-11T10:38:36Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Tell Us About Your Dream. Let's chat! - Tech.us1] but found [Tell Us About Your Dream. Let's chat! - Tech.us]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Tell Us About Your Dream. Let's chat! - Tech.us1] but found [Tell Us About Your Dream. Let's chat! - Tech.us]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at resources.Base.menu(Base.java:79)
+at practice.TechUs.ContactPage.pageTitleVerify(ContactPage.java:20)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.retryFailed(Invoker.java:839)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1010)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+        <test-method status="FAIL" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.ContactPage@799f10e1]" name="pageTitleVerify" duration-ms="8650" started-at="2019-09-11T10:38:36Z" finished-at="2019-09-11T10:38:45Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Tell Us About Your Dream. Let's chat! - Tech.us1] but found [Tell Us About Your Dream. Let's chat! - Tech.us]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Tell Us About Your Dream. Let's chat! - Tech.us1] but found [Tell Us About Your Dream. Let's chat! - Tech.us]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at resources.Base.menu(Base.java:79)
+at practice.TechUs.ContactPage.pageTitleVerify(ContactPage.java:20)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.retryFailed(Invoker.java:839)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1010)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.ContactPage -->
+      <class name="practice.TechUs.WebCloudApplicationPage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.WebCloudApplicationPage@2a3b5b47]" name="pageTitleVerify" duration-ms="4392" started-at="2019-09-11T10:37:21Z" finished-at="2019-09-11T10:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.WebCloudApplicationPage -->
+      <class name="practice.TechUs.TestimonialPage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.TestimonialPage@18078bef]" name="pageTitleVerify" duration-ms="18934" started-at="2019-09-11T10:37:48Z" finished-at="2019-09-11T10:38:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.TestimonialPage -->
+      <class name="practice.TechUs.SoftwareModernizationPage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.SoftwareModernizationPage@55b699ef]" name="pageTitleVerify" duration-ms="4745" started-at="2019-09-11T10:37:25Z" finished-at="2019-09-11T10:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.SoftwareModernizationPage -->
+      <class name="practice.TechUs.HowItWorksPage">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:practice.TechUs.HowItWorksPage@74f0ea28]" name="beforetest" is-config="true" duration-ms="21550" started-at="2019-09-11T10:36:07Z" finished-at="2019-09-11T10:36:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.HowItWorksPage@74f0ea28]" name="pageTitleVerify" duration-ms="5076" started-at="2019-09-11T10:36:31Z" finished-at="2019-09-11T10:36:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:practice.TechUs.HowItWorksPage@74f0ea28]" name="afterTest" is-config="true" duration-ms="208" started-at="2019-09-11T10:38:46Z" finished-at="2019-09-11T10:38:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- practice.TechUs.HowItWorksPage -->
+      <class name="practice.TechUs.DevelopementTeamPage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.DevelopementTeamPage@38d8f54a]" name="pageTitleVerify" duration-ms="8019" started-at="2019-09-11T10:36:55Z" finished-at="2019-09-11T10:37:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.DevelopementTeamPage -->
+      <class name="practice.TechUs.HomePage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.HomePage@f6efaab]" name="pageTitleVerify" duration-ms="3024" started-at="2019-09-11T10:36:28Z" finished-at="2019-09-11T10:36:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
       </class> <!-- practice.TechUs.HomePage -->
       <class name="practice.TechUs.SoftwareDevPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.SoftwareDevPage@644baf4a]" name="pageTitleVerify" duration-ms="13166" started-at="2019-09-09T10:43:02Z" finished-at="2019-09-09T10:43:15Z">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.SoftwareDevPage@49e53c76]" name="pageTitleVerify" duration-ms="11727" started-at="2019-09-11T10:37:03Z" finished-at="2019-09-11T10:37:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTitleVerify -->
       </class> <!-- practice.TechUs.SoftwareDevPage -->
-      <class name="practice.TechUs.ClientsPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.ClientsPage@1ed4ae0f]" name="pageTitleVerify" duration-ms="7263" started-at="2019-09-09T10:43:18Z" finished-at="2019-09-09T10:43:25Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.ClientsPage -->
       <class name="practice.TechUs.PricingPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.PricingPage@7526515b]" name="pageTitleVerify" duration-ms="2377" started-at="2019-09-09T10:43:15Z" finished-at="2019-09-09T10:43:18Z">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.PricingPage@35d019a3]" name="pageTitleVerify" duration-ms="3213" started-at="2019-09-11T10:37:30Z" finished-at="2019-09-11T10:37:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTitleVerify -->
       </class> <!-- practice.TechUs.PricingPage -->
+      <class name="practice.TechUs.ClientsPage">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.ClientsPage@689604d9]" name="pageTitleVerify" duration-ms="14999" started-at="2019-09-11T10:37:33Z" finished-at="2019-09-11T10:37:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleVerify -->
+      </class> <!-- practice.TechUs.ClientsPage -->
       <class name="practice.TechUs.ArtificialInteligencePage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.ArtificialInteligencePage@54c5a2ff]" name="pageTitleVerify" duration-ms="10237" started-at="2019-09-09T10:43:25Z" finished-at="2019-09-09T10:43:35Z">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.ArtificialInteligencePage@409bf450]" name="pageTitleVerify" duration-ms="11088" started-at="2019-09-11T10:36:44Z" finished-at="2019-09-11T10:36:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTitleVerify -->
       </class> <!-- practice.TechUs.ArtificialInteligencePage -->
       <class name="practice.TechUs.FAQPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.FAQPage@6d4d66d2]" name="pageTitleVerify" duration-ms="4365" started-at="2019-09-09T10:43:35Z" finished-at="2019-09-09T10:43:40Z">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.FAQPage@3c19aaa5]" name="pageTitleVerify" duration-ms="3781" started-at="2019-09-11T10:36:36Z" finished-at="2019-09-11T10:36:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTitleVerify -->
       </class> <!-- practice.TechUs.FAQPage -->
       <class name="practice.TechUs.OurServices">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.OurServices@2a265ea9]" name="pageTitleVerify" duration-ms="3312" started-at="2019-09-09T10:43:40Z" finished-at="2019-09-09T10:43:43Z">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.OurServices@3349e9bb]" name="pageTitleVerify" duration-ms="3836" started-at="2019-09-11T10:36:40Z" finished-at="2019-09-11T10:36:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTitleVerify -->
       </class> <!-- practice.TechUs.OurServices -->
       <class name="practice.TechUs.MobileAppDevPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.MobileAppDevPage@11392934]" name="pageTitleVerify" duration-ms="6919" started-at="2019-09-09T10:43:43Z" finished-at="2019-09-09T10:43:50Z">
+        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.MobileAppDevPage@351d00c0]" name="pageTitleVerify" duration-ms="5777" started-at="2019-09-11T10:37:15Z" finished-at="2019-09-11T10:37:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTitleVerify -->
       </class> <!-- practice.TechUs.MobileAppDevPage -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- TitleVerification -->
+  </suite> <!-- Suite -->
 </testng-results>
