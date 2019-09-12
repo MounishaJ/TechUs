@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 17, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 213.561 s <<< FAILURE! - in TestSuite
-pageTitleVerify(practice.TechUs.ContactPage)  Time elapsed: 4.263 s  <<< FAILURE!
-java.lang.AssertionError: expected [Tell Us About Your Dream. Let's chat! - Tech.us1] but found [Tell Us About Your Dream. Let's chat! - Tech.us]
-	at practice.TechUs.ContactPage.pageTitleVerify(ContactPage.java:20)
-
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 87.839 s - in TestSuite

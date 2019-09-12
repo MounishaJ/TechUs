@@ -18,6 +18,7 @@ public class HowItWorksPage extends Base{
 	 @BeforeSuite
 	 public void beforetest() throws IOException
 	 {
+		 log.info("Before suite");
 		 initializedriver();
 	 }
 	@Test
@@ -30,6 +31,7 @@ public class HowItWorksPage extends Base{
 	public void afterTest()
 	{
 		teardown();
+		log.info("After suite");
 	}
 
 	@BeforeGroups

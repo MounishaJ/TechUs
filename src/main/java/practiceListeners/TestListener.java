@@ -1,6 +1,4 @@
-package resources;
-
-import java.io.IOException;
+package practiceListeners;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -8,9 +6,14 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-public class Listeners implements ITestListener {
-	public static Logger log = LogManager.getLogger(Listeners.class.getName());
-	Base b=new Base();
+import resources.Base;
+
+
+
+public class TestListener implements ITestListener{
+
+	 public static Logger log = LogManager.getLogger(TestListener.class.getName());
+	 Base b=new Base();
 	public void onTestStart(ITestResult result) {
 		// TODO Auto-generated method stub
 		
