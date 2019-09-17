@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Suite">
+<suite name="TitleSuite">
 <listeners>
 <listener class-name="practiceListeners.TestListener"/>
 <listener class-name="practiceListeners.AnnotationTransforme"/>
 <listener class-name="practiceListeners.ExecutionListener"/>
 <listener class-name="practiceListeners.SuiteListener"/>
+<listener class-name="practiceListeners.ConfigurtionListener"/>
+<listener class-name="practiceListeners.MethodInterceptor"/>
 </listeners>
   <test thread-count="5" name="TitleVerification">
     <classes>

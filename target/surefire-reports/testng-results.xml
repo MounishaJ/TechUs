@@ -1,103 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="71464" started-at="2019-09-12T07:25:55Z" finished-at="2019-09-12T07:27:07Z">
+  <suite name="TitleSuite" duration-ms="29" started-at="2019-09-17T12:15:57Z" finished-at="2019-09-17T12:15:57Z">
     <groups>
     </groups>
-    <test name="TitleVerification" duration-ms="71464" started-at="2019-09-12T07:25:55Z" finished-at="2019-09-12T07:27:07Z">
-      <class name="practice.TechUs.ContactPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.ContactPage@747ddf94]" name="pageTitleVerify" duration-ms="3697" started-at="2019-09-12T07:27:03Z" finished-at="2019-09-12T07:27:07Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.ContactPage -->
-      <class name="practice.TechUs.TestimonialPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.TestimonialPage@2f9f7dcf]" name="pageTitleVerify" duration-ms="8532" started-at="2019-09-12T07:26:55Z" finished-at="2019-09-12T07:27:03Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.TestimonialPage -->
-      <class name="practice.TechUs.WebCloudApplicationPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.WebCloudApplicationPage@67c27493]" name="pageTitleVerify" duration-ms="4323" started-at="2019-09-12T07:26:29Z" finished-at="2019-09-12T07:26:33Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.WebCloudApplicationPage -->
-      <class name="practice.TechUs.SoftwareModernizationPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.SoftwareModernizationPage@1a482e36]" name="pageTitleVerify" duration-ms="3346" started-at="2019-09-12T07:26:33Z" finished-at="2019-09-12T07:26:37Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.SoftwareModernizationPage -->
+    <test name="TitleVerification" duration-ms="29" started-at="2019-09-17T12:15:57Z" finished-at="2019-09-17T12:15:57Z">
       <class name="practice.TechUs.HowItWorksPage">
-        <test-method status="PASS" signature="beforetest()[pri:0, instance:practice.TechUs.HowItWorksPage@223191a6]" name="beforetest" is-config="true" duration-ms="13980" started-at="2019-09-12T07:25:41Z" finished-at="2019-09-12T07:25:55Z">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:practice.TechUs.HowItWorksPage@49139829]" name="beforetest" is-config="true" duration-ms="23172" started-at="2019-09-17T12:15:34Z" finished-at="2019-09-17T12:15:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforetest -->
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.HowItWorksPage@223191a6]" name="pageTitleVerify" duration-ms="9183" started-at="2019-09-12T07:25:58Z" finished-at="2019-09-12T07:26:08Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:practice.TechUs.HowItWorksPage@223191a6]" name="afterTest" is-config="true" duration-ms="249" started-at="2019-09-12T07:27:07Z" finished-at="2019-09-12T07:27:07Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:practice.TechUs.HowItWorksPage@49139829]" name="afterTest" is-config="true" duration-ms="146" started-at="2019-09-17T12:15:57Z" finished-at="2019-09-17T12:15:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- practice.TechUs.HowItWorksPage -->
-      <class name="practice.TechUs.DevelopementTeamPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.DevelopementTeamPage@1b7cc17c]" name="pageTitleVerify" duration-ms="3336" started-at="2019-09-12T07:26:19Z" finished-at="2019-09-12T07:26:22Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.DevelopementTeamPage -->
-      <class name="practice.TechUs.HomePage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.HomePage@49139829]" name="pageTitleVerify" duration-ms="3017" started-at="2019-09-12T07:25:55Z" finished-at="2019-09-12T07:25:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.HomePage -->
-      <class name="practice.TechUs.SoftwareDevPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.SoftwareDevPage@59662a0b]" name="pageTitleVerify" duration-ms="3652" started-at="2019-09-12T07:26:22Z" finished-at="2019-09-12T07:26:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.SoftwareDevPage -->
-      <class name="practice.TechUs.PricingPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.PricingPage@72967906]" name="pageTitleVerify" duration-ms="3172" started-at="2019-09-12T07:26:37Z" finished-at="2019-09-12T07:26:40Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.PricingPage -->
-      <class name="practice.TechUs.ClientsPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.ClientsPage@5b8dfcc1]" name="pageTitleVerify" duration-ms="14569" started-at="2019-09-12T07:26:40Z" finished-at="2019-09-12T07:26:55Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.ClientsPage -->
-      <class name="practice.TechUs.ArtificialInteligencePage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.ArtificialInteligencePage@4efbca5a]" name="pageTitleVerify" duration-ms="3345" started-at="2019-09-12T07:26:15Z" finished-at="2019-09-12T07:26:19Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.ArtificialInteligencePage -->
-      <class name="practice.TechUs.FAQPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.FAQPage@9597028]" name="pageTitleVerify" duration-ms="4155" started-at="2019-09-12T07:26:08Z" finished-at="2019-09-12T07:26:12Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.FAQPage -->
-      <class name="practice.TechUs.OurServices">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.OurServices@6069db50]" name="pageTitleVerify" duration-ms="3727" started-at="2019-09-12T07:26:12Z" finished-at="2019-09-12T07:26:15Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.OurServices -->
-      <class name="practice.TechUs.MobileAppDevPage">
-        <test-method status="PASS" signature="pageTitleVerify()[pri:0, instance:practice.TechUs.MobileAppDevPage@77fbd92c]" name="pageTitleVerify" duration-ms="3342" started-at="2019-09-12T07:26:26Z" finished-at="2019-09-12T07:26:29Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pageTitleVerify -->
-      </class> <!-- practice.TechUs.MobileAppDevPage -->
     </test> <!-- TitleVerification -->
-  </suite> <!-- Suite -->
+  </suite> <!-- TitleSuite -->
 </testng-results>

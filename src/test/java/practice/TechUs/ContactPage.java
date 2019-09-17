@@ -13,7 +13,7 @@ import resources.Base;
 public class ContactPage extends Base {
 	 public static Logger log = LogManager.getLogger(ArtificialInteligencePage.class.getName());
 
-	 @Test									//(enabled=false) //skip this particular test method
+	 @Test(groups="sanity")								//(enabled=false) //skip this particular test method
 	public void pageTitleVerify() throws Exception {
 		Home_Page page=new Home_Page(driver);
 		menu(page.contactMenu(),"Tell Us About Your Dream. Let's chat! - Tech.us");

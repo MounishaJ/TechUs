@@ -1,21 +1,11 @@
-2019-09-12 12:55:41,622 [practiceListeners.ExecutionListener.onExecutionStart] - TestNG execution started at 2019-09-12T12:55:41.615
-2019-09-12 12:55:41,823 [practiceListeners.SuiteListener.onStart] - Before starting test suite: Suite in onStart() method
-2019-09-12 12:55:41,841 [practice.TechUs.HowItWorksPage.beforetest] - Before suite
-2019-09-12 12:55:46,905 [resources.Base.initializedriver] - Initialized browser
-2019-09-12 12:55:55,805 [resources.Base.initializedriver] - Launched Website
-2019-09-12 12:56:08,060 [resources.Base.menus] - Successfully verifiedHow It Works - Tech.us
-2019-09-12 12:56:12,218 [resources.Base.menus] - Successfully verifiedHow Can We Help You? - Tech.us
-2019-09-12 12:56:15,945 [resources.Base.menus] - Successfully verifiedService Offerings - Tech.us
-2019-09-12 12:56:19,291 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Artificial Intelligence & ML - Tech.us
-2019-09-12 12:56:22,630 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Dedicated Development Team - Tech.us
-2019-09-12 12:56:26,282 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Custom Software Development Projects - Tech.us
-2019-09-12 12:56:29,625 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Mobile App Development - Tech.us
-2019-09-12 12:56:33,948 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Web & Cloud Applications - Tech.us
-2019-09-12 12:56:37,296 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Software Modernization Projects - Tech.us
-2019-09-12 12:56:40,469 [resources.Base.menu] - Successfully verifiedWhy Tech.us? - Tech.us
-2019-09-12 12:56:55,038 [resources.Base.menus] - Successfully verified1,350+ Successful Projects and Counting...
-2019-09-12 12:57:03,571 [resources.Base.menus] - Successfully verifiedTestimonials
-2019-09-12 12:57:07,270 [resources.Base.menu] - Successfully verifiedTell Us About Your Dream. Let's chat! - Tech.us
-2019-09-12 12:57:07,621 [practice.TechUs.HowItWorksPage.afterTest] - After suite
-2019-09-12 12:57:07,622 [practiceListeners.SuiteListener.onFinish] - After executing the test suite: Suite in onFinish() method
-2019-09-12 12:57:07,940 [practiceListeners.ExecutionListener.onExecutionFinish] - TestNG execution ended at 2019-09-12T12:57:07.940
+2019-09-17 17:45:33,841 [practiceListeners.ExecutionListener.onExecutionStart] - TestNG execution started at 2019-09-17T17:45:33.825
+2019-09-17 17:45:34,060 [practiceListeners.SuiteListener.onStart] - Before starting test suite: TitleSuite in onStart() method
+2019-09-17 17:45:34,075 [practice.TechUs.HowItWorksPage.beforetest] - Before suite
+2019-09-17 17:45:42,209 [resources.Base.initializedriver] - Initialized browser
+2019-09-17 17:45:57,230 [resources.Base.initializedriver] - Launched Website
+2019-09-17 17:45:57,232 [practiceListeners.ConfigurtionListener.onConfigurationSuccess] - we are in Configuration success: beforetest method
+2019-09-17 17:45:57,234 [practiceListeners.TestListener.onStart] - on test method TitleVerification onStart
+2019-09-17 17:45:57,425 [practice.TechUs.HowItWorksPage.afterTest] - After suite
+2019-09-17 17:45:57,425 [practiceListeners.ConfigurtionListener.onConfigurationSuccess] - we are in Configuration success: afterTest method
+2019-09-17 17:45:57,425 [practiceListeners.SuiteListener.onFinish] - After executing the test suite: TitleSuite in onFinish() method
+2019-09-17 17:45:57,534 [practiceListeners.ExecutionListener.onExecutionFinish] - TestNG execution ended at 2019-09-17T17:45:57.534

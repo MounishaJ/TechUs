@@ -1,7 +1,9 @@
 practiceListeners\ExecutionListener.class
 Pages\Home_Page.class
+practiceListeners\ConfigurtionListener.class
 practiceListeners\TestListener.class
 resources\Base.class
 practiceListeners\AnnotationTransforme.class
 practiceListeners\SuiteListener.class
+practiceListeners\MethodInterceptor.class
 practiceListeners\RetryAnalyzer.class

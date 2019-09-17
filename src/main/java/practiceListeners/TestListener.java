@@ -16,12 +16,12 @@ public class TestListener implements ITestListener{
 	 Base b=new Base();
 	public void onTestStart(ITestResult result) {
 		// TODO Auto-generated method stub
-		
+		log.info("on test method " + result.getName() + " Teststart");
 	}
 
 	public void onTestSuccess(ITestResult result) {
 		// TODO Auto-generated method stub
-		
+		log.info("on test method " + result.getName() + " TestSuccess");
 	}
 
 	public void onTestFailure(ITestResult result) {
@@ -38,17 +38,17 @@ public class TestListener implements ITestListener{
 
 	public void onTestSkipped(ITestResult result) {
 		// TODO Auto-generated method stub
-		
+		log.info("on test method " + result.getName() + " Test SKips");	
 	}
 
 	public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
 		// TODO Auto-generated method stub
-		
+		log.info("on test method " + result.getName() + " failed within the percentage");
 	}
 
 	public void onStart(ITestContext context) {
 		// TODO Auto-generated method stub
-		
+		log.info("on test method " + context.getName() + " onStart");
 	}
 
 	public void onFinish(ITestContext context) {
