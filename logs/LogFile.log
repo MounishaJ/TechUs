@@ -1,11 +1,20 @@
-2019-09-17 17:45:33,841 [practiceListeners.ExecutionListener.onExecutionStart] - TestNG execution started at 2019-09-17T17:45:33.825
-2019-09-17 17:45:34,060 [practiceListeners.SuiteListener.onStart] - Before starting test suite: TitleSuite in onStart() method
-2019-09-17 17:45:34,075 [practice.TechUs.HowItWorksPage.beforetest] - Before suite
-2019-09-17 17:45:42,209 [resources.Base.initializedriver] - Initialized browser
-2019-09-17 17:45:57,230 [resources.Base.initializedriver] - Launched Website
-2019-09-17 17:45:57,232 [practiceListeners.ConfigurtionListener.onConfigurationSuccess] - we are in Configuration success: beforetest method
-2019-09-17 17:45:57,234 [practiceListeners.TestListener.onStart] - on test method TitleVerification onStart
-2019-09-17 17:45:57,425 [practice.TechUs.HowItWorksPage.afterTest] - After suite
-2019-09-17 17:45:57,425 [practiceListeners.ConfigurtionListener.onConfigurationSuccess] - we are in Configuration success: afterTest method
-2019-09-17 17:45:57,425 [practiceListeners.SuiteListener.onFinish] - After executing the test suite: TitleSuite in onFinish() method
-2019-09-17 17:45:57,534 [practiceListeners.ExecutionListener.onExecutionFinish] - TestNG execution ended at 2019-09-17T17:45:57.534
+2019-09-18 09:37:13,298 [practiceListeners.ExecutionListener.onExecutionStart] - TestNG execution started at 2019-09-18T09:37:13.267
+2019-09-18 09:37:13,611 [practiceListeners.SuiteListener.onStart] - Before starting test suite: TitleSuite in onStart() method
+2019-09-18 09:37:13,642 [practice.TechUs.HowItWorksPage.beforetest] - Before suite
+2019-09-18 09:37:24,079 [resources.Base.initializedriver] - Initialized browser
+2019-09-18 09:37:35,825 [resources.Base.initializedriver] - Launched Website
+2019-09-18 09:37:35,845 [practiceListeners.ConfigurtionListener.onConfigurationSuccess] - we are in Configuration success: beforetest method
+2019-09-18 09:37:35,849 [practiceListeners.TestListener.onStart] - on test method TitleVerification onStart
+2019-09-18 09:37:35,950 [practiceListeners.TestListener.onTestStart] - on test method pageTitleVerify Teststart
+2019-09-18 09:37:41,126 [resources.Base.menus] - Successfully verifiedHire Tech.us For Your Artificial Intelligence & ML - Tech.us
+2019-09-18 09:37:41,130 [practiceListeners.TestListener.onTestSuccess] - on test method pageTitleVerify TestSuccess
+2019-09-18 09:37:41,130 [practiceListeners.TestListener.onTestStart] - on test method pageTitleVerify Teststart
+2019-09-18 09:37:48,281 [resources.Base.menus] - Successfully verified1,350+ Successful Projects and Counting...
+2019-09-18 09:37:48,281 [practiceListeners.TestListener.onTestSuccess] - on test method pageTitleVerify TestSuccess
+2019-09-18 09:37:48,285 [practiceListeners.TestListener.onTestStart] - on test method pageTitleVerify Teststart
+2019-09-18 09:37:52,384 [resources.Base.menu] - Successfully verifiedTell Us About Your Dream. Let's chat! - Tech.us
+2019-09-18 09:37:52,384 [practiceListeners.TestListener.onTestSuccess] - on test method pageTitleVerify TestSuccess
+2019-09-18 09:37:53,134 [practice.TechUs.HowItWorksPage.afterTest] - After suite
+2019-09-18 09:37:53,134 [practiceListeners.ConfigurtionListener.onConfigurationSuccess] - we are in Configuration success: afterTest method
+2019-09-18 09:37:53,134 [practiceListeners.SuiteListener.onFinish] - After executing the test suite: TitleSuite in onFinish() method
+2019-09-18 09:37:53,619 [practiceListeners.ExecutionListener.onExecutionFinish] - TestNG execution ended at 2019-09-18T09:37:53.619

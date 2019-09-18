@@ -4,12 +4,14 @@ package practice.TechUs;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import Pages.Home_Page;
 import resources.Base;
 
 //@Ignore  //ignore this  class
+@Listeners({practiceListeners.MethodInterceptor.class})
 public class ContactPage extends Base {
 	 public static Logger log = LogManager.getLogger(ArtificialInteligencePage.class.getName());
 
